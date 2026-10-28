@@ -1,0 +1,7 @@
+drive/
+.config/
+sample_data/
+wandb/
+*.gdoc
+*.gsheet
+*.gslides
